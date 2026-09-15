@@ -39,12 +39,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=77mostafaayman77&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/mostafaayman77/)
